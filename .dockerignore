@@ -1,0 +1,8 @@
+.env
+.air.toml
+
+web/dist
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
